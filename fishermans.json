@@ -1,0 +1,39 @@
+{
+    "squadName": "Fishing squad",
+    "homeTown": "Shuang Liu",
+    "formed": 2018,
+    "secretBase": "Super group",
+    "active": true,
+    "members": [
+      {
+        "name": "Song Qiancheng",
+        "age": 21,
+        "secretIdentity": "Heiwaer",
+        "powers": [
+          "Hand pole fishing",
+          "Table fishing",
+          "Night fishing"
+        ]
+      },
+      {
+        "name": "Peng Jiajie",
+        "age": 20,
+        "secretIdentity": "Jiege",
+        "powers": [
+          "Traditional fishing",
+          "Rafting",
+          "Competitive fishing"
+        ]
+      },
+      {
+        "name": "Ye Yijia",
+        "age": 21,
+        "secretIdentity": "Yepi",
+        "powers": [
+          "Rod casting",
+          "Ice fishing",
+          "Fishing float"
+        ]
+      }
+    ]
+  }
